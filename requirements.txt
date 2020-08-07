@@ -1,0 +1,16 @@
+matplotlib==3.1.3
+ffmpeg
+numpy==1.18.5
+Flask==1.1.2
+flask-socketio==4.3.1
+gevent==1.4.0
+Keras==2.4.3
+librosa==0.7.2
+numba==0.49.1
+tensorflow==2.2.0
+imutils==0.5.3
+opencv-python==4.3.0.36
+six==1.12.0
+scipy==1.4.1
+setuptools==41.0.0
+Pillow==7.2.0
